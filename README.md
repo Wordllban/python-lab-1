@@ -6,7 +6,7 @@
 - тип валюти
 
 
-##Інструкція по запуску:
+##Інструкція по запуску(cmd):
 
 1. Перший крок: `git clone https://github.com/Wordllban/python-lab-1.git`
 1. Другий крок: `cd python-lab-1`
